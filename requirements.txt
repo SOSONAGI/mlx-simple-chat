@@ -1,0 +1,6 @@
+gradio
+mlx==0.15.2
+mlx_lm==0.15.0
+huggingface-hub==0.23.4
+transformers==4.41.2
+torch==2.3.1
