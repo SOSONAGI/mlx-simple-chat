@@ -9,5 +9,11 @@ cd .../mlx-simple-chat
 pip install -r requirements.txt
 ```
 
+after above steps
+
+```CLI
+gradio app.py
+```
+
 You can download your model via enter the huggingface repo name in this app.
 
